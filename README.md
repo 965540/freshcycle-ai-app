@@ -62,8 +62,3 @@ Displays project data and activities.
 
 ---
 
-# Demo Video
-
-Watch the project demo here:
-
-[▶ Watch Demo Video](https://youtube.com/your-video-link)
